@@ -125,3 +125,23 @@ Data Modeling
 Interactive Visual Design
 
 E-Commerce KPI Frameworks
+
+#Challenge Credits
+
+This analysis was completed for the Onyx Data – DataDNA November Challenge, supported by:
+
+Onyx Data
+
+ZoomCharts
+
+SmartFramesUI
+
+DataCareerJumpstart
+
+## 👤 Author
+
+**Adaobi Roseline Ezechukwu**  
+Data Analyst  
+
+LinkedIn: *https://www.linkedin.com/in/ezechukwu-adaobi-2803162b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app*  
+GitHub: *Adaobi3713* 
